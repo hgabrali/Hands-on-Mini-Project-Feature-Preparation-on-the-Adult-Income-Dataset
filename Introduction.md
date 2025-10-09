@@ -4,6 +4,7 @@
 
 ☝ **Core Principle:** Feature preparation transforms messy raw data into a clean, structured, and consistent form. This makes the model learn faster, perform better, and generalize reliably to new data.
 
+[Features Preparation Colab](https://colab.research.google.com/drive/1XZskClkoO2iTmbz3fc__isJf59jSSvtb#scrollTo=9aGSR37pVpgZ)
 
 ## 🛠️ The Feature Preparation Pipeline: 5 Core Steps
 
