@@ -10,7 +10,7 @@ The primary objective is to apply the first five crucial steps of the feature pr
 * **Methodology:** Follow the 5-step feature preparation process (Handling Missing Data, Outliers, Categorical Data, Scaling, and Feature Engineering).
 
 ---
-
+ 
 ## 📚 About the Dataset (UCI Adult Income)
 
 | Feature | Detail |
