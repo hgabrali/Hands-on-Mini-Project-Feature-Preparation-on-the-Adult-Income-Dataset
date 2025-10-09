@@ -9,7 +9,7 @@ The primary objective is to apply the first five crucial steps of the feature pr
 * **Objective:** Predict whether an individual earns **more than $50,000** or **less than or equal to $50,000** per year.
 * **Methodology:** Follow the 5-step feature preparation process (Handling Missing Data, Outliers, Categorical Data, Scaling, and Feature Engineering).
 
----
+--- 
  
 ## 📚 About the Dataset (UCI Adult Income)
 
