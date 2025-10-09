@@ -1,4 +1,4 @@
-# Step 4: Feature Scaling ⚖️
+# Step 4: Feature Scaling ⚖️ 
 
 * Pick several **numeric features**.
 * Apply different scaling methods (**Min-Max**, **Standardization**).
