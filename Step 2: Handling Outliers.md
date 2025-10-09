@@ -1,5 +1,10 @@
 # Step 2: Handling Outliers ❗
 
+* Explore the **numeric features**.
+* Use summary statistics and visualizations (e.g., **histograms, boxplots**) to detect extreme values.
+* Apply the **IQR method** or another method to set thresholds.
+* Decide: **remove, cap, or transform** outliers.
+
 <img width="690" height="251" alt="image" src="https://github.com/user-attachments/assets/645fc36c-e5d4-4870-99de-75acb12b84df" />
 
 ## 🔍 Initial Analysis on Outliers
