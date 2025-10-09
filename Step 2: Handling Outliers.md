@@ -41,3 +41,10 @@ We iterate through the identified columns and apply the capping strategy. This i
 
 <img width="379" height="106" alt="image" src="https://github.com/user-attachments/assets/bbd7e6bd-21fb-463e-82a4-69ac38529b5d" />
 
+### 4. Verification
+
+We check the descriptive statistics again to confirm that the maximum values for the capped columns are now equal to the calculated upper threshold, successfully completing Step 2.
+
+<img width="315" height="102" alt="image" src="https://github.com/user-attachments/assets/5ed0736c-bc5a-44d6-90e6-67b7e3fada28" />
+
+
